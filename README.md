@@ -71,3 +71,7 @@ Power redistribution:
 ## License
 
 MIT
+
+## Related paper: 
+
+https://doi.org/10.5281/zenodo.20466800
