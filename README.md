@@ -1,3 +1,23 @@
+## Citation & Related Publications
+
+If you use this simulation in your research, please cite:
+
+**Primary paper (2026):**
+Castro Quiles, F. (2026). The Dismantled Mindset in the Age of Artificial Intelligence: Identity Fragmentation, Algorithmic Power, and a Framework for Collective Restoration. SSRN 6853702. DOI: https://doi.org/10.5281/zenodo.20466800
+
+**Mathematical formalization (2025):**
+Castro Quiles, F. (2025). A Mathematical Formalization and Simulation of the Dismantled Mindset Theory. SSRN 5824582. https://ssrn.com/abstract=5824582
+
+**Original theory (2024):**
+Castro Quiles, F. (2024). Exploring the Theory of a Dismantled Mindset: A Call for Collective Empowerment. SSRN 5040267. https://ssrn.com/abstract=5040267
+
+**Book:**
+Castro Quiles, F. (2025). Dismantled: A Theory of Broken Mindsets, A Blueprint of Infinite Futures. FC Quiles Books.
+
+---
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20466800.svg)](https://doi.org/10.5281/zenodo.20466800)
+
 # Dismantled Mindset Theory: Mathematical Simulation
 
 Python implementation of the network model from:
@@ -75,3 +95,5 @@ MIT
 ## Related paper: 
 
 https://doi.org/10.5281/zenodo.20466800
+
+Add citation and publication references
